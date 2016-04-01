@@ -7,7 +7,7 @@ Please do not copy these solutions—it does you no good! You will not learn the
 ## Solutions
 
 1. [Introduction to Haskell](01%20Intro/01-intro.hs)
-2. Algebraic Data Types
+2. [Algebraic Data Types](02%20Algebraic%20Data%20Types/LogAnalysis.hs)
 3. Recursion and Polymorphism
 4. Higher Order Programming
 5. Type Classes
