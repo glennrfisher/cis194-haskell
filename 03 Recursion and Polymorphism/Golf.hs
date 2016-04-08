@@ -31,7 +31,10 @@ skips xs = [each i xs | i <- [1..length xs]]
 -- > each 5 "ABCD" == ""
 
 each :: Int -> [a] -> [a]
-each n xs = [xs !! i | i <- [n-1, 2*n-1..length xs - 1]]
+each n xs =
+    case drop (n-1) xs of
+        (y:ys) -> y : each n ys
+        [] -> []
 
 ----------------------------------------------
 -- 2. Local Maxima
