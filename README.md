@@ -8,8 +8,8 @@ Please do not copy these solutions—it does you no good! You will not learn the
 
 1. [Introduction to Haskell](01%20Intro/01-intro.hs)
 2. [Algebraic Data Types](02%20Algebraic%20Data%20Types/LogAnalysis.hs)
-3. Recursion and Polymorphism
-4. Higher Order Programming
+3. [Recursion and Polymorphism](03%20Recursion%20and%20Polymorphism/Golf.hs)
+4. [Higher Order Programming](04%20Higher%20Order%20Programming/homework4.hs)
 5. Type Classes
 6. Laziness
 7. Folds and Monoids
