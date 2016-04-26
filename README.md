@@ -10,7 +10,7 @@ Please do not copy these solutions—it does you no good! You will not learn the
 2. [Algebraic Data Types](02%20Algebraic%20Data%20Types/LogAnalysis.hs)
 3. [Recursion and Polymorphism](03%20Recursion%20and%20Polymorphism/Golf.hs)
 4. [Higher Order Programming](04%20Higher%20Order%20Programming/homework4.hs)
-5. Type Classes
+5. [Type Classes](05%20Type%20Classes/Calc.hs)
 6. Laziness
 7. Folds and Monoids
 8. I/O
