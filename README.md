@@ -14,7 +14,7 @@ Please do not copy these solutions—it does you no good! You will not learn the
 6. [Laziness](06%20Laziness/Fibonacci.hs)
 7. [Folds and Monoids](07%20Folds%20and%20Monoids/JoinList.hs)
 8. [I/O](08%20IO/Party.hs)
-9. Functors
+9. [Functors](09%20Functors/09-functors.pdf)
 10. Applicative Functors 1
 11. Applicative Functors 2
 12. Monads
